@@ -1,4 +1,4 @@
-package patterns.creational.builder
+package patterns.creational.builder.enums
 
 enum class Business {
     BLIPS_AND_CHTZ,

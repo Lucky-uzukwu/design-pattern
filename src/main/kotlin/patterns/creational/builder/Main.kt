@@ -1,5 +1,10 @@
 package patterns.creational.builder
 
+import patterns.creational.builder.enums.Business
+import patterns.creational.builder.enums.Character
+import patterns.creational.builder.enums.Gadget
+import patterns.creational.builder.enums.Season
+
 fun main() {
 
     val rickAndMortyFan = RickAndMortyFanBuilder()
